@@ -687,11 +687,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 99bace93-7d8e-40f3-b7c4-ebcda0c25d6c
+  cloudProjectId: 67713560-16ac-4340-9fa6-99d787a6864a
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Jumpy Dumb 2024-11-27_21-39-14
-  organizationId: ballallay
+  projectName: Jumpy Dumb
+  organizationId: loliirl
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}

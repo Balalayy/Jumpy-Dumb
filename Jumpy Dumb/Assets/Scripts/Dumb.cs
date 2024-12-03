@@ -35,7 +35,7 @@ public class Dumb : MonoBehaviour
         if (!isGrounded) State = States.idle;
         if (Input.GetButton("Horizontal"))
             Run();
-        if (isGrounded && Input.GetButtonDown("Jump"))
+        if (isGrounded && (Input.GetButtonDown("Jump") || Input.GetKeyDown(KeyCode.W)))
             Jump();
     }
 
